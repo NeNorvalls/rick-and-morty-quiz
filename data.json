@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Who is the smartest character in Rick and Morty?",
+    "answers": ["Rick", "Morty", "Beth", "Summer"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is Rick's main sidekick?",
+    "answers": ["Morty", "Summer", "Beth", "Jerry"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which character is known for being a 'pickle'?",
+    "answers": ["Rick", "Morty", "Beth", "Jerry"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is Morty's love interest?",
+    "answers": ["Jessica", "Summer", "Beth", "Tammy"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the name of Rick's daughter?",
+    "answers": ["Beth", "Summer", "Tammy", "Ann"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the father of Morty?",
+    "answers": ["Jerry", "Rick", "Beth", "Ethan"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the name of Rick's robot dog?",
+    "answers": ["Snuffles", "Blinky", "Robo", "Clippy"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What species is Mr. Poopybutthole?",
+    "answers": ["Human", "Alien", "Hickopian", "Poopybuttholian"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is the main antagonist of the series?",
+    "answers": ["Evil Morty", "Rick", "Birdperson", "Squanchy"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the name of Rick's main adversary, who is a scientist?",
+    "answers": ["Dr. Wong", "Krombopulos Michael", "Evil Morty", "Birdperson"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the name of the character with a mustache who is often seen with Rick?",
+    "answers": ["Birdperson", "Krombopulos Michael", "Jellybean", "Squanchy"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the alien leader of the 'Council of Ricks'?",
+    "answers": ["Evil Morty", "Rick Prime", "The Citadel", "Birdperson"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who was the former love interest of Beth Smith?",
+    "answers": ["Jerry", "Space Beth", "Rick", "Mr. Poopybutthole"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which character has been sent to a 'galactic prison' multiple times?",
+    "answers": ["Rick", "Beth", "Summer", "Jerry"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the 'galactic crime boss' and ally of Rick?",
+    "answers": [
+      "Krombopulos Michael",
+      "Squanchy",
+      "Birdperson",
+      "Mr. Poopybutthole"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is known as the 'underdog' of the show?",
+    "answers": ["Summer", "Morty", "Beth", "Rick"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is the talking robot dog that Rick had as a pet?",
+    "answers": ["Snuffles", "Pickle Rick", "Silly Rick", "Robo-Rick"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which character is known for their obsessive love for Rick?",
+    "answers": ["Beth", "Tammy", "Summer", "Evil Morty"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is the character often confused as 'Beth's clone'?",
+    "answers": ["Space Beth", "Morty", "Jerry", "Rick"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who frequently uses the catchphrase 'Wubba lubba dub dub!'?",
+    "answers": ["Rick", "Jerry", "Summer", "Birdperson"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which character becomes 'Pickle Rick' in the episode of the same name?",
+    "answers": ["Rick", "Morty", "Summer", "Beth"],
+    "correctAnswer": 0
+  }
+]

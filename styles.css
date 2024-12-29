@@ -1,0 +1,139 @@
+/* Basic Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f4f4f4;
+  flex-direction: column;
+}
+
+/* Quiz Container Styling */
+.quiz-container {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+/* Title Styling */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Question Container */
+#question-container {
+  margin-bottom: 20px;
+}
+
+/* Answer Buttons */
+#answer-buttons {
+  margin-bottom: 20px;
+}
+
+/* Button Styling */
+.answer-btn {
+  width: 100%;
+  margin: 5px 0;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.answer-btn:hover {
+  background-color: #45a049;
+}
+
+/* Progress Bar Styling */
+#progress-container {
+  margin: 20px 0;
+  background-color: #e0e0e0;
+  height: 20px;
+  border-radius: 10px;
+}
+
+#progress-bar {
+  background-color: #4caf50;
+  height: 100%;
+  width: 0;
+  border-radius: 10px;
+}
+
+/* Next Button Styling */
+#next-button {
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 100%;
+  transition: background-color 0.3s ease;
+}
+
+#next-button:hover {
+  background-color: #0056b3;
+}
+
+/* Footer Styling */
+footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  font-size: 14px;
+  width: 100%;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  .quiz-container {
+    width: 90%;
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .answer-btn {
+    font-size: 14px;
+  }
+
+  #next-button {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .quiz-container {
+    width: 95%;
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 18px;
+  }
+
+  .answer-btn {
+    font-size: 12px;
+  }
+
+  #next-button {
+    font-size: 12px;
+  }
+}
