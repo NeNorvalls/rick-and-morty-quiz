@@ -1,4 +1,5 @@
 # Rick and Morty Quiz App
+[view here!](https://nenorvalls.github.io/rick-and-morty-quiz/)
 
 This is a simple interactive quiz app built using HTML, CSS, and JavaScript. The app fetches questions dynamically from a `data.json` file and allows users to answer multiple-choice questions. Upon answering, the correct answer is revealed, and the user can proceed to the next question. It’s built to be responsive across devices.
 
